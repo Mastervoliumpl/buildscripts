@@ -1,0 +1,1 @@
+// TeamCity/CI detection, branch info fallback

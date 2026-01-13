@@ -1,0 +1,1 @@
+// execute targets, fail-fast, summary
