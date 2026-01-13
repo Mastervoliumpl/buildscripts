@@ -1,0 +1,1 @@
+// fan-out to multiple sinks (console + teamcity)
