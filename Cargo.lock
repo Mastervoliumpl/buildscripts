@@ -5,3 +5,15 @@ version = 4
 [[package]]
 name = "buildscripts"
 version = "0.0.0"
+dependencies = [
+ "buildscripts-cli",
+ "buildscripts-core",
+]
+
+[[package]]
+name = "buildscripts-cli"
+version = "0.0.0"
+
+[[package]]
+name = "buildscripts-core"
+version = "0.0.0"
